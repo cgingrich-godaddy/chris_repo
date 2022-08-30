@@ -1,4 +1,4 @@
-/* ignore WP core and misc*/
+/* ignore WP core and misc files */
 wp-content/mu-plugins/redis-cache-pro.php
 wp-content/object-cache.php
 wp-content/blogs.dir/
